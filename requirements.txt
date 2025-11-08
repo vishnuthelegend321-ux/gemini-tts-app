@@ -1,0 +1,5 @@
+streamlit
+google-genai
+pydub
+edge-tts
+audioop-lts
