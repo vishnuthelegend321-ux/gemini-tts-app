@@ -10,7 +10,7 @@ import edge_tts  # NEW: The Edge TTS library
 # We can use a slightly larger chunk limit for Edge TTS
 CHUNK_CHARACTER_LIMIT = 7000
 # We must specify a voice. You can find more at `edge-tts --list-voices`
-VOICE = "en-US-EricNeural"
+VOICE = "en-GB-RyanNeural"
 
 # --- Your original text chunker function (UNMODIFIED) ---
 def smart_text_chunker(text: str, max_length: int):
